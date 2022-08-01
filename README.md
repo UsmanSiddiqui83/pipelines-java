@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/usman-test-organization/usman-test-project/_apis/build/status/UsmanSiddiqui83.my-first-pipeline-java?branchName=main)](https://dev.azure.com/usman-test-organization/usman-test-project/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
